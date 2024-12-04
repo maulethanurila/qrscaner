@@ -137,7 +137,56 @@ $conn->close();
         </div>
     </div>
 </section>
-
+<section class="u-clearfix u-image u-section-4" id="carousel_01f9">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="data-layout-selected u-clearfix u-expanded-width u-gutter-20 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-expand-resize u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
+                <div class="u-container-layout">
+                  <img class="u-expanded-width u-image u-image-1" src="images/WhatsAppImage2024-12-04at12.28.17.jpeg" data-image-width="1280" data-image-height="1600">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
+                <div class="u-container-layout">
+                  <img class="u-expanded-width u-image u-image-2" src="images/WhatsAppImage2024-12-04at12.29.32.jpeg" data-image-width="3024" data-image-height="4032">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
+                <div class="u-container-layout">
+                  <img class="u-expanded-width u-image u-image-3" src="images/WhatsAppImage2024-12-04at12.30.07.jpeg" data-image-width="1129" data-image-height="1280">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-align-center u-container-align-center u-container-style u-group u-opacity u-opacity-60 u-palette-4-dark-2 u-group-1">
+          <div class="u-container-layout u-valign-middle u-container-layout-4">
+            <p class="u-text u-text-body-alt-color u-text-1"> Бұл жобада біздің көшбасшыларымыз – қауіпсіздік пен кәсібиліктің үлгісі. Олар сіздің әрбір қадамыңызды QR-код арқылы бақылауға негізделген жүйе арқылы қолдайды. Жеке тәжірибелері мен кәсіби білімдерінің арқасында, төтенше жағдайларда жылдам әрекет етіп, қауіпсіздікті қамтамасыз етеді. Әрбір сапарыңыздың сәтті және қызықты болуы үшін біздің команда әрдайым сізбен бірге.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-5" id="carousel_b661">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-15 u-size-30-md u-image-1">
+              <div class="u-container-layout"></div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-2">
+              <div class="u-container-layout"></div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-3">
+              <div class="u-container-layout"></div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-15 u-size-30-md u-image-4">
+              <div class="u-container-layout"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 <section class="u-clearfix u-image u-section-6" id="carousel_cfe9">
     <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-align-center u-container-align-center u-container-style u-group u-group-1">
